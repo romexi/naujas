@@ -1,0 +1,137 @@
+/* hero_section */
+
+position: absolute;
+width: 1346px;
+height: 665px;
+left: 83px;
+top: 109px;
+
+
+
+/* hero_image */
+
+position: absolute;
+width: 665px;
+height: 1346px;
+left: calc(50% - 665px/2 + 1005.5px);
+top: calc(50% - 1346px/2 - 1221.5px);
+
+background: url(pexels-karolina-grabowska-4210863.jpg);
+opacity: 0.5;
+border-radius: 41px;
+transform: rotate(90deg);
+
+
+/* hero_button_white */
+
+position: absolute;
+width: 379px;
+height: 59px;
+left: 691px;
+top: 547px;
+
+
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 379px;
+height: 59px;
+left: calc(50% - 379px/2 + 124.5px);
+top: calc(50% - 59px/2 - 1427px);
+
+background: #FFFFFF;
+
+
+/* Pateikti individualų užsakymą */
+
+position: absolute;
+width: 353px;
+height: 34.22px;
+left: calc(50% - 353px/2 + 137.5px);
+top: calc(50% - 34.22px/2 - 1423.39px);
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+
+
+/* hero_button_black */
+
+position: absolute;
+width: 214px;
+height: 60px;
+left: 466px;
+top: 547px;
+
+
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 214px;
+height: 60px;
+left: calc(50% - 214px/2 - 183px);
+top: calc(50% - 60px/2 - 1426.5px);
+
+background: #141414;
+
+
+/* El. Parduotuvė */
+
+position: absolute;
+width: 167px;
+height: 34.8px;
+left: calc(50% - 167px/2 - 183.5px);
+top: calc(50% - 34.8px/2 - 1425.9px);
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+
+
+
+/* Lörem ipsum areligt täliga olig. Beparad muligt nylogi, i far. Skräpbot semigt, diatrenade diränar */
+
+position: absolute;
+width: 767px;
+height: 78px;
+left: calc(50% - 767px/2 + 20.5px);
+top: calc(50% - 78px/2 - 1588.5px);
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* HEADLINE */
+
+position: absolute;
+width: 317px;
+height: 77px;
+left: calc(50% - 317px/2 + 20.5px);
+top: calc(50% - 77px/2 - 1693px);
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 64px;
+line-height: 77px;
+
+color: #000000;
+
